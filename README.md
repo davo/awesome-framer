@@ -6,6 +6,15 @@
 
 [Framer](http://framer.com) is a tool to create animated and interactive prototypes. It uses modern web technologies such as JavaScript, HTML and CSS to extend the capabilities for advanced users and auto-correct, intuitive error messaging or in-app documentation to lower the learning curve for beginners.
 
+## Module New Format
+
+| Module | Description | Example | Last update |
+|:--|:--|:--|---|
+|[Web Audio API](https://github.com/raulibanez/framer-audio)|Provides better audio support for your Framer projects.|[Example](https://framer.cloud/MweHh/)|[![GitHub last commit](https://img.shields.io/github/last-commit/raulibanez/framer-audio.svg)](https://github.com/raulibanez/framer-audio)|
+|[Form](https://github.com/emilwidlund/framer-form)|Give your Framer prototypes a third dimension.|[Example](https://framer.cloud/RzLsF/)|[![GitHub last commit](https://img.shields.io/github/last-commit/emilwidlund/framer-form.svg)](https://github.com/emilwidlund/framer-form)|
+
+--- 
+
 ## Contents
 
 * [General](#general)
